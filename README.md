@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://in.linkedin.com/in/ninad-wani" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/linkedin-square-color.svg" alt="ninad-wani" height="30" width="40" /></a>
-<a href="https://www.facebook.com/NinadWani" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/facebook-round-color.svg" alt="NinadWani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ninad_wani/" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/instagram-color.svg" alt="ninad_wani" height="30" width="40" /></a>
-&nbsp<a href="mailto:iamninad02@gmail.com" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/gmail.svg" alt="ninad_wani" height="30" width="40" /></a>
+<a href="https://in.linkedin.com/in/ninad-wani" target="blank"><img align="center" src="https://www.svgrepo.com/show/448234/linkedin.svg" alt="ninad-wani" height="30" width="40" /></a>
+<a href="https://www.facebook.com/NinadWani" target="blank"><img align="center" src="https://www.svgrepo.com/show/475647/facebook-color.svg" alt="NinadWani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ninad_wani/" target="blank"><img align="center" src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="ninad_wani" height="30" width="40" /></a>
+&nbsp<a href="mailto:iamninad02@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="ninad_wani" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamninad&layout=compact" alt="iamninad" />
